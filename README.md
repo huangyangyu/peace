@@ -2,7 +2,7 @@
 
 ## ⏩ Quick Start
 <details open>
-<summary>Installation</summary>
+<summary>Installation1</summary>
 
  - Step1: Clone GeoMap-Agent code repository
 
@@ -11,7 +11,7 @@ git clone https://github.com/microsoft/PEACE.git
 cd PEACE
 ```
 
- - Step2: Clone GeoMap-Bench dataset repository
+  - Step2: Clone GeoMap-Bench dataset repository
 
 ```
 git lfs install
