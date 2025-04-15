@@ -9,10 +9,9 @@
 </ul>
 
 <div class="language-plaintext highlighter-rouge">
-<pre class="highlight">
+  <pre class="highlight">
 <code>git clone https://github.com/microsoft/PEACE.git
-cd PEACE</code>
-</pre>
+cd PEACE</code></pre>
 </div>
 
 </details>
